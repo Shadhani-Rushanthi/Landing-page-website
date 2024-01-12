@@ -1,0 +1,1432 @@
+
+@keyframes move {
+    100% {
+      transform: translate3d(0, 0, 1px) rotate(360deg);
+    }
+  }
+  
+    .particle:nth-child(1) {
+      backface-visibility: hidden;
+      position: absolute;
+      width: 230px;
+      height: 230px;
+      animation-duration: 12.512766394482085s;
+      animation-delay: -6.143510966171104s;
+      transform-origin: 1.6722344081801737vw 9.77502656993424vh;
+      animation-name: move;
+      background: linear-gradient(rgb(101, 29, 61) 0%, rgba(52, 29, 101, 0) 100%), radial-gradient(94.51% 124.88% at 94.32% 94.43%, rgba(255, 65, 116, 0.78) 0%, rgba(255, 128, 143, 0.78) 46.52%, rgba(255, 65, 65, 0) 100%), linear-gradient(41deg, rgb(255, 252, 230) 4.33%, rgba(255, 252, 230, 0) 73.7%);
+      border-radius: 100%;
+      background-blend-mode: normal;
+      filter: blur(30px);
+      top: 65%;
+      left: 29%;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+    }
+  
+    .particle:nth-child(2) {
+      backface-visibility: hidden;
+      position: absolute;
+      width: 230px;
+      height: 230px;
+      animation-duration: 13.931388344386558s;
+      animation-delay: -10.759109622917304s;
+      transform-origin: -7.166223842698415vw -12.67052991457832vh;
+      animation-name: move;
+      background: linear-gradient(rgb(101, 29, 61) 0%, rgba(52, 29, 101, 0) 100%), radial-gradient(94.51% 124.88% at 94.32% 94.43%, rgba(255, 65, 116, 0.78) 0%, rgba(255, 128, 143, 0.78) 46.52%, rgba(255, 65, 65, 0) 100%), linear-gradient(41deg, rgb(255, 252, 230) 4.33%, rgba(255, 252, 230, 0) 73.7%);
+      border-radius: 100%;
+      background-blend-mode: normal;
+      filter: blur(30px);
+      top: 78%;
+      left: 63%;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+    }
+  
+    .particle:nth-child(3) {
+      backface-visibility: hidden;
+      position: absolute;
+      width: 230px;
+      height: 230px;
+      animation-duration: 13.989262374960257s;
+      animation-delay: -13.67584442279271s;
+      transform-origin: 15.489655230354494vw 2.654014056183719vh;
+      animation-name: move;
+      background: linear-gradient(rgb(101, 29, 61) 0%, rgba(52, 29, 101, 0) 100%), radial-gradient(94.51% 124.88% at 94.32% 94.43%, rgba(255, 65, 116, 0.78) 0%, rgba(255, 128, 143, 0.78) 46.52%, rgba(255, 65, 65, 0) 100%), linear-gradient(41deg, rgb(255, 252, 230) 4.33%, rgba(255, 252, 230, 0) 73.7%);
+      border-radius: 100%;
+      background-blend-mode: normal;
+      filter: blur(30px);
+      top: 26%;
+      left: 48%;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+    }
+  
+    .particle:nth-child(4) {
+      backface-visibility: hidden;
+      position: absolute;
+      width: 230px;
+      height: 230px;
+      animation-duration: 12.004657015075729s;
+      animation-delay: -11.871542650014755s;
+      transform-origin: 15.226253164105671vw -11.185930626678553vh;
+      animation-name: move;
+      background: linear-gradient(rgb(101, 29, 61) 0%, rgba(52, 29, 101, 0) 100%), radial-gradient(94.51% 124.88% at 94.32% 94.43%, rgba(255, 65, 116, 0.78) 0%, rgba(255, 128, 143, 0.78) 46.52%, rgba(255, 65, 65, 0) 100%), linear-gradient(41deg, rgb(255, 252, 230) 4.33%, rgba(255, 252, 230, 0) 73.7%);
+      border-radius: 100%;
+      background-blend-mode: normal;
+      filter: blur(30px);
+      top: 46%;
+      left: 99%;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+    }
+  
+    .particle:nth-child(5) {
+      backface-visibility: hidden;
+      position: absolute;
+      width: 230px;
+      height: 230px;
+      animation-duration: 12.283500426247945s;
+      animation-delay: -3.1999356822029226s;
+      transform-origin: -13.552776143952183vw -24.783980541222807vh;
+      animation-name: move;
+      background: linear-gradient(rgb(101, 29, 61) 0%, rgba(52, 29, 101, 0) 100%), radial-gradient(94.51% 124.88% at 94.32% 94.43%, rgba(255, 65, 116, 0.78) 0%, rgba(255, 128, 143, 0.78) 46.52%, rgba(255, 65, 65, 0) 100%), linear-gradient(41deg, rgb(255, 252, 230) 4.33%, rgba(255, 252, 230, 0) 73.7%);
+      border-radius: 100%;
+      background-blend-mode: normal;
+      filter: blur(30px);
+      top: 51%;
+      left: 15%;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+    }
+  
+    .particle:nth-child(6) {
+      backface-visibility: hidden;
+      position: absolute;
+      width: 230px;
+      height: 230px;
+      animation-duration: 11.446390692231706s;
+      animation-delay: -12.06357591878389s;
+      transform-origin: 17.775367759931527vw 7.547568568535823vh;
+      animation-name: move;
+      background: linear-gradient(rgb(101, 29, 61) 0%, rgba(52, 29, 101, 0) 100%), radial-gradient(94.51% 124.88% at 94.32% 94.43%, rgba(255, 65, 116, 0.78) 0%, rgba(255, 128, 143, 0.78) 46.52%, rgba(255, 65, 65, 0) 100%), linear-gradient(41deg, rgb(255, 252, 230) 4.33%, rgba(255, 252, 230, 0) 73.7%);
+      border-radius: 100%;
+      background-blend-mode: normal;
+      filter: blur(30px);
+      top: 14%;
+      left: 61%;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+    }
+  
+    .particle:nth-child(7) {
+      backface-visibility: hidden;
+      position: absolute;
+      width: 230px;
+      height: 230px;
+      animation-duration: 14.411723820469453s;
+      animation-delay: -9.153039833594544s;
+      transform-origin: -17.079494396348927vw 9.560114245080761vh;
+      animation-name: move;
+      background: linear-gradient(rgb(101, 29, 61) 0%, rgba(52, 29, 101, 0) 100%), radial-gradient(94.51% 124.88% at 94.32% 94.43%, rgba(255, 65, 116, 0.78) 0%, rgba(255, 128, 143, 0.78) 46.52%, rgba(255, 65, 65, 0) 100%), linear-gradient(41deg, rgb(255, 252, 230) 4.33%, rgba(255, 252, 230, 0) 73.7%);
+      border-radius: 100%;
+      background-blend-mode: normal;
+      filter: blur(30px);
+      top: 77%;
+      left: 22%;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+    }
+  
+    .particle:nth-child(8) {
+      backface-visibility: hidden;
+      position: absolute;
+      width: 230px;
+      height: 230px;
+      animation-duration: 13.43210061042991s;
+      animation-delay: -4.345239152795468s;
+      transform-origin: 0.8543037298448297vw -22.61392021896431vh;
+      animation-name: move;
+      background: linear-gradient(rgb(101, 29, 61) 0%, rgba(52, 29, 101, 0) 100%), radial-gradient(94.51% 124.88% at 94.32% 94.43%, rgba(255, 65, 116, 0.78) 0%, rgba(255, 128, 143, 0.78) 46.52%, rgba(255, 65, 65, 0) 100%), linear-gradient(41deg, rgb(255, 252, 230) 4.33%, rgba(255, 252, 230, 0) 73.7%);
+      border-radius: 100%;
+      background-blend-mode: normal;
+      filter: blur(30px);
+      top: 95%;
+      left: 38%;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+    }
+  
+    .particle:nth-child(9) {
+      backface-visibility: hidden;
+      position: absolute;
+      width: 230px;
+      height: 230px;
+      animation-duration: 14.314243966741884s;
+      animation-delay: -12.024583431111356s;
+      transform-origin: 10.838893955709452vw -11.5323528950651vh;
+      animation-name: move;
+      background: linear-gradient(rgb(101, 29, 61) 0%, rgba(52, 29, 101, 0) 100%), radial-gradient(94.51% 124.88% at 94.32% 94.43%, rgba(255, 65, 116, 0.78) 0%, rgba(255, 128, 143, 0.78) 46.52%, rgba(255, 65, 65, 0) 100%), linear-gradient(41deg, rgb(255, 252, 230) 4.33%, rgba(255, 252, 230, 0) 73.7%);
+      border-radius: 100%;
+      background-blend-mode: normal;
+      filter: blur(30px);
+      top: 58%;
+      left: 27%;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+    }
+  
+    .particle:nth-child(10) {
+      backface-visibility: hidden;
+      position: absolute;
+      width: 230px;
+      height: 230px;
+      animation-duration: 11.841848227674376s;
+      animation-delay: -11.584995151273146s;
+      transform-origin: -14.250614192517407vw -22.818911225090144vh;
+      animation-name: move;
+      background: linear-gradient(rgb(101, 29, 61) 0%, rgba(52, 29, 101, 0) 100%), radial-gradient(94.51% 124.88% at 94.32% 94.43%, rgba(255, 65, 116, 0.78) 0%, rgba(255, 128, 143, 0.78) 46.52%, rgba(255, 65, 65, 0) 100%), linear-gradient(41deg, rgb(255, 252, 230) 4.33%, rgba(255, 252, 230, 0) 73.7%);
+      border-radius: 100%;
+      background-blend-mode: normal;
+      filter: blur(30px);
+      top: 85%;
+      left: 94%;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+    }
+  
+    .particle:nth-child(11) {
+      backface-visibility: hidden;
+      position: absolute;
+      width: 230px;
+      height: 230px;
+      animation-duration: 14.038206869444315s;
+      animation-delay: -11.25346362455129s;
+      transform-origin: 19.996976309345172vw 23.69557542834805vh;
+      animation-name: move;
+      background: linear-gradient(rgb(101, 29, 61) 0%, rgba(52, 29, 101, 0) 100%), radial-gradient(94.51% 124.88% at 94.32% 94.43%, rgba(255, 65, 116, 0.78) 0%, rgba(255, 128, 143, 0.78) 46.52%, rgba(255, 65, 65, 0) 100%), linear-gradient(41deg, rgb(255, 252, 230) 4.33%, rgba(255, 252, 230, 0) 73.7%);
+      border-radius: 100%;
+      background-blend-mode: normal;
+      filter: blur(30px);
+      top: 98%;
+      left: 63%;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+    }
+  
+    .particle:nth-child(12) {
+      backface-visibility: hidden;
+      position: absolute;
+      width: 230px;
+      height: 230px;
+      animation-duration: 13.884640693687734s;
+      animation-delay: -2.6518612181903167s;
+      transform-origin: -21.472609190645098vw -14.667331900784287vh;
+      animation-name: move;
+      background: linear-gradient(rgb(101, 29, 61) 0%, rgba(52, 29, 101, 0) 100%), radial-gradient(94.51% 124.88% at 94.32% 94.43%, rgba(255, 65, 116, 0.78) 0%, rgba(255, 128, 143, 0.78) 46.52%, rgba(255, 65, 65, 0) 100%), linear-gradient(41deg, rgb(255, 252, 230) 4.33%, rgba(255, 252, 230, 0) 73.7%);
+      border-radius: 100%;
+      background-blend-mode: normal;
+      filter: blur(30px);
+      top: 64%;
+      left: 11%;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+    }
+  
+    .particle:nth-child(13) {
+      backface-visibility: hidden;
+      position: absolute;
+      width: 230px;
+      height: 230px;
+      animation-duration: 10.804071168743654s;
+      animation-delay: -14.946412676386824s;
+      transform-origin: -14.424330738703507vw 24.823046991522325vh;
+      animation-name: move;
+      background: linear-gradient(rgb(101, 29, 61) 0%, rgba(52, 29, 101, 0) 100%), radial-gradient(94.51% 124.88% at 94.32% 94.43%, rgba(255, 65, 116, 0.78) 0%, rgba(255, 128, 143, 0.78) 46.52%, rgba(255, 65, 65, 0) 100%), linear-gradient(41deg, rgb(255, 252, 230) 4.33%, rgba(255, 252, 230, 0) 73.7%);
+      border-radius: 100%;
+      background-blend-mode: normal;
+      filter: blur(30px);
+      top: 61%;
+      left: 94%;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+    }
+  
+    .particle:nth-child(14) {
+      backface-visibility: hidden;
+      position: absolute;
+      width: 230px;
+      height: 230px;
+      animation-duration: 13.070203626332406s;
+      animation-delay: -8.976012396722476s;
+      transform-origin: 17.376225370964548vw -7.375388686037109vh;
+      animation-name: move;
+      background: linear-gradient(rgb(101, 29, 61) 0%, rgba(52, 29, 101, 0) 100%), radial-gradient(94.51% 124.88% at 94.32% 94.43%, rgba(255, 65, 116, 0.78) 0%, rgba(255, 128, 143, 0.78) 46.52%, rgba(255, 65, 65, 0) 100%), linear-gradient(41deg, rgb(255, 252, 230) 4.33%, rgba(255, 252, 230, 0) 73.7%);
+      border-radius: 100%;
+      background-blend-mode: normal;
+      filter: blur(30px);
+      top: 12%;
+      left: 97%;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+    }
+  
+    .particle:nth-child(15) {
+      backface-visibility: hidden;
+      position: absolute;
+      width: 230px;
+      height: 230px;
+      animation-duration: 13.934323236282305s;
+      animation-delay: -6.088509554447938s;
+      transform-origin: 21.05949682496705vw -24.56409600553148vh;
+      animation-name: move;
+      background: linear-gradient(rgb(101, 29, 61) 0%, rgba(52, 29, 101, 0) 100%), radial-gradient(94.51% 124.88% at 94.32% 94.43%, rgba(255, 65, 116, 0.78) 0%, rgba(255, 128, 143, 0.78) 46.52%, rgba(255, 65, 65, 0) 100%), linear-gradient(41deg, rgb(255, 252, 230) 4.33%, rgba(255, 252, 230, 0) 73.7%);
+      border-radius: 100%;
+      background-blend-mode: normal;
+      filter: blur(30px);
+      top: 67%;
+      left: 4%;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+    }
+  
+    .particle:nth-child(16) {
+      backface-visibility: hidden;
+      position: absolute;
+      width: 230px;
+      height: 230px;
+      animation-duration: 11.122740282480361s;
+      animation-delay: -4.675273579159532s;
+      transform-origin: 1.3490732840258381vw -22.502834957081987vh;
+      animation-name: move;
+      background: linear-gradient(rgb(101, 29, 61) 0%, rgba(52, 29, 101, 0) 100%), radial-gradient(94.51% 124.88% at 94.32% 94.43%, rgba(255, 65, 116, 0.78) 0%, rgba(255, 128, 143, 0.78) 46.52%, rgba(255, 65, 65, 0) 100%), linear-gradient(41deg, rgb(255, 252, 230) 4.33%, rgba(255, 252, 230, 0) 73.7%);
+      border-radius: 100%;
+      background-blend-mode: normal;
+      filter: blur(30px);
+      top: 82%;
+      left: 98%;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+    }
+  
+    .particle:nth-child(17) {
+      backface-visibility: hidden;
+      position: absolute;
+      width: 230px;
+      height: 230px;
+      animation-duration: 12.479582808621062s;
+      animation-delay: -4.4846779167692965s;
+      transform-origin: 16.19008706411867vw 3.711700751978075vh;
+      animation-name: move;
+      background: linear-gradient(rgb(101, 29, 61) 0%, rgba(52, 29, 101, 0) 100%), radial-gradient(94.51% 124.88% at 94.32% 94.43%, rgba(255, 65, 116, 0.78) 0%, rgba(255, 128, 143, 0.78) 46.52%, rgba(255, 65, 65, 0) 100%), linear-gradient(41deg, rgb(255, 252, 230) 4.33%, rgba(255, 252, 230, 0) 73.7%);
+      border-radius: 100%;
+      background-blend-mode: normal;
+      filter: blur(30px);
+      top: 76%;
+      left: 77%;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+    }
+  
+    .particle:nth-child(18) {
+      backface-visibility: hidden;
+      position: absolute;
+      width: 230px;
+      height: 230px;
+      animation-duration: 12.397025523230907s;
+      animation-delay: -4.625313785989912s;
+      transform-origin: 18.71954155085936vw 8.404256268087408vh;
+      animation-name: move;
+      background: linear-gradient(rgb(101, 29, 61) 0%, rgba(52, 29, 101, 0) 100%), radial-gradient(94.51% 124.88% at 94.32% 94.43%, rgba(255, 65, 116, 0.78) 0%, rgba(255, 128, 143, 0.78) 46.52%, rgba(255, 65, 65, 0) 100%), linear-gradient(41deg, rgb(255, 252, 230) 4.33%, rgba(255, 252, 230, 0) 73.7%);
+      border-radius: 100%;
+      background-blend-mode: normal;
+      filter: blur(30px);
+      top: 25%;
+      left: 48%;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+    }
+  
+    .particle:nth-child(19) {
+      backface-visibility: hidden;
+      position: absolute;
+      width: 230px;
+      height: 230px;
+      animation-duration: 14.117710551535945s;
+      animation-delay: -3.0880569317344864s;
+      transform-origin: -7.240934750273929vw 17.666993759715446vh;
+      animation-name: move;
+      background: linear-gradient(rgb(101, 29, 61) 0%, rgba(52, 29, 101, 0) 100%), radial-gradient(94.51% 124.88% at 94.32% 94.43%, rgba(255, 65, 116, 0.78) 0%, rgba(255, 128, 143, 0.78) 46.52%, rgba(255, 65, 65, 0) 100%), linear-gradient(41deg, rgb(255, 252, 230) 4.33%, rgba(255, 252, 230, 0) 73.7%);
+      border-radius: 100%;
+      background-blend-mode: normal;
+      filter: blur(30px);
+      top: 19%;
+      left: 82%;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+    }
+  
+    .particle:nth-child(20) {
+      backface-visibility: hidden;
+      position: absolute;
+      width: 230px;
+      height: 230px;
+      animation-duration: 12.624292013650889s;
+      animation-delay: -3.361434512265414s;
+      transform-origin: 15.739371990547554vw -23.96235511152759vh;
+      animation-name: move;
+      background: linear-gradient(rgb(101, 29, 61) 0%, rgba(52, 29, 101, 0) 100%), radial-gradient(94.51% 124.88% at 94.32% 94.43%, rgba(255, 65, 116, 0.78) 0%, rgba(255, 128, 143, 0.78) 46.52%, rgba(255, 65, 65, 0) 100%), linear-gradient(41deg, rgb(255, 252, 230) 4.33%, rgba(255, 252, 230, 0) 73.7%);
+      border-radius: 100%;
+      background-blend-mode: normal;
+      filter: blur(30px);
+      top: 30%;
+      left: 19%;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+    }
+  
+    .particle:nth-child(21) {
+      backface-visibility: hidden;
+      position: absolute;
+      width: 230px;
+      height: 230px;
+      animation-duration: 11.156258748179498s;
+      animation-delay: -8.726734440638264s;
+      transform-origin: 24.300457996259027vw 7.047204965821571vh;
+      animation-name: move;
+      background: linear-gradient(rgb(101, 29, 61) 0%, rgba(52, 29, 101, 0) 100%), radial-gradient(94.51% 124.88% at 94.32% 94.43%, rgba(255, 65, 116, 0.78) 0%, rgba(255, 128, 143, 0.78) 46.52%, rgba(255, 65, 65, 0) 100%), linear-gradient(41deg, rgb(255, 252, 230) 4.33%, rgba(255, 252, 230, 0) 73.7%);
+      border-radius: 100%;
+      background-blend-mode: normal;
+      filter: blur(30px);
+      top: 6%;
+      left: 90%;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+    }
+  
+    .particle:nth-child(22) {
+      backface-visibility: hidden;
+      position: absolute;
+      width: 230px;
+      height: 230px;
+      animation-duration: 12.433408227822031s;
+      animation-delay: -8.627965511325s;
+      transform-origin: -12.300451499779697vw -19.302911697148105vh;
+      animation-name: move;
+      background: linear-gradient(rgb(101, 29, 61) 0%, rgba(52, 29, 101, 0) 100%), radial-gradient(94.51% 124.88% at 94.32% 94.43%, rgba(255, 65, 116, 0.78) 0%, rgba(255, 128, 143, 0.78) 46.52%, rgba(255, 65, 65, 0) 100%), linear-gradient(41deg, rgb(255, 252, 230) 4.33%, rgba(255, 252, 230, 0) 73.7%);
+      border-radius: 100%;
+      background-blend-mode: normal;
+      filter: blur(30px);
+      top: 99%;
+      left: 83%;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+    }
+  
+    .particle:nth-child(23) {
+      backface-visibility: hidden;
+      position: absolute;
+      width: 230px;
+      height: 230px;
+      animation-duration: 11.21064608247733s;
+      animation-delay: -0.24817395774949125s;
+      transform-origin: -17.142235814100392vw 1.40158932573393vh;
+      animation-name: move;
+      background: linear-gradient(rgb(101, 29, 61) 0%, rgba(52, 29, 101, 0) 100%), radial-gradient(94.51% 124.88% at 94.32% 94.43%, rgba(255, 65, 116, 0.78) 0%, rgba(255, 128, 143, 0.78) 46.52%, rgba(255, 65, 65, 0) 100%), linear-gradient(41deg, rgb(255, 252, 230) 4.33%, rgba(255, 252, 230, 0) 73.7%);
+      border-radius: 100%;
+      background-blend-mode: normal;
+      filter: blur(30px);
+      top: 57%;
+      left: 92%;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+    }
+  
+    .particle:nth-child(24) {
+      backface-visibility: hidden;
+      position: absolute;
+      width: 230px;
+      height: 230px;
+      animation-duration: 14.511824011920275s;
+      animation-delay: -12.659073153113784s;
+      transform-origin: 14.17824606420438vw 0.2884600749890822vh;
+      animation-name: move;
+      background: linear-gradient(rgb(101, 29, 61) 0%, rgba(52, 29, 101, 0) 100%), radial-gradient(94.51% 124.88% at 94.32% 94.43%, rgba(255, 65, 116, 0.78) 0%, rgba(255, 128, 143, 0.78) 46.52%, rgba(255, 65, 65, 0) 100%), linear-gradient(41deg, rgb(255, 252, 230) 4.33%, rgba(255, 252, 230, 0) 73.7%);
+      border-radius: 100%;
+      background-blend-mode: normal;
+      filter: blur(30px);
+      top: 57%;
+      left: 92%;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+    }
+  
+    .particle:nth-child(25) {
+      backface-visibility: hidden;
+      position: absolute;
+      width: 230px;
+      height: 230px;
+      animation-duration: 14.610576383852148s;
+      animation-delay: -7.895152899815895s;
+      transform-origin: -16.563759709200866vw 9.595049095493899vh;
+      animation-name: move;
+      background: linear-gradient(rgb(101, 29, 61) 0%, rgba(52, 29, 101, 0) 100%), radial-gradient(94.51% 124.88% at 94.32% 94.43%, rgba(255, 65, 116, 0.78) 0%, rgba(255, 128, 143, 0.78) 46.52%, rgba(255, 65, 65, 0) 100%), linear-gradient(41deg, rgb(255, 252, 230) 4.33%, rgba(255, 252, 230, 0) 73.7%);
+      border-radius: 100%;
+      background-blend-mode: normal;
+      filter: blur(30px);
+      top: 11%;
+      left: 82%;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+    }
+  
+    .particle:nth-child(26) {
+      backface-visibility: hidden;
+      position: absolute;
+      width: 230px;
+      height: 230px;
+      animation-duration: 12.871079069275783s;
+      animation-delay: -14.147613099165847s;
+      transform-origin: -15.485010593386583vw -24.036516128935183vh;
+      animation-name: move;
+      background: linear-gradient(rgb(101, 29, 61) 0%, rgba(52, 29, 101, 0) 100%), radial-gradient(94.51% 124.88% at 94.32% 94.43%, rgba(255, 65, 116, 0.78) 0%, rgba(255, 128, 143, 0.78) 46.52%, rgba(255, 65, 65, 0) 100%), linear-gradient(41deg, rgb(255, 252, 230) 4.33%, rgba(255, 252, 230, 0) 73.7%);
+      border-radius: 100%;
+      background-blend-mode: normal;
+      filter: blur(30px);
+      top: 14%;
+      left: 29%;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+    }
+  
+    .particle:nth-child(27) {
+      backface-visibility: hidden;
+      position: absolute;
+      width: 230px;
+      height: 230px;
+      animation-duration: 13.971906682971184s;
+      animation-delay: -5.655888147603135s;
+      transform-origin: 6.058938542232916vw 5.480530195603173vh;
+      animation-name: move;
+      background: linear-gradient(rgb(101, 29, 61) 0%, rgba(52, 29, 101, 0) 100%), radial-gradient(94.51% 124.88% at 94.32% 94.43%, rgba(255, 65, 116, 0.78) 0%, rgba(255, 128, 143, 0.78) 46.52%, rgba(255, 65, 65, 0) 100%), linear-gradient(41deg, rgb(255, 252, 230) 4.33%, rgba(255, 252, 230, 0) 73.7%);
+      border-radius: 100%;
+      background-blend-mode: normal;
+      filter: blur(30px);
+      top: 47%;
+      left: 62%;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+    }
+  
+    .particle:nth-child(28) {
+      backface-visibility: hidden;
+      position: absolute;
+      width: 230px;
+      height: 230px;
+      animation-duration: 11.3453684079529s;
+      animation-delay: -10.300556042596174s;
+      transform-origin: -3.1303851674838192vw 6.462439176284505vh;
+      animation-name: move;
+      background: linear-gradient(rgb(101, 29, 61) 0%, rgba(52, 29, 101, 0) 100%), radial-gradient(94.51% 124.88% at 94.32% 94.43%, rgba(255, 65, 116, 0.78) 0%, rgba(255, 128, 143, 0.78) 46.52%, rgba(255, 65, 65, 0) 100%), linear-gradient(41deg, rgb(255, 252, 230) 4.33%, rgba(255, 252, 230, 0) 73.7%);
+      border-radius: 100%;
+      background-blend-mode: normal;
+      filter: blur(30px);
+      top: 18%;
+      left: 77%;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+    }
+  
+    .particle:nth-child(29) {
+      backface-visibility: hidden;
+      position: absolute;
+      width: 230px;
+      height: 230px;
+      animation-duration: 12.981064583627862s;
+      animation-delay: -7.796399937220914s;
+      transform-origin: 5.545142334788487vw 13.376747749133102vh;
+      animation-name: move;
+      background: linear-gradient(rgb(101, 29, 61) 0%, rgba(52, 29, 101, 0) 100%), radial-gradient(94.51% 124.88% at 94.32% 94.43%, rgba(255, 65, 116, 0.78) 0%, rgba(255, 128, 143, 0.78) 46.52%, rgba(255, 65, 65, 0) 100%), linear-gradient(41deg, rgb(255, 252, 230) 4.33%, rgba(255, 252, 230, 0) 73.7%);
+      border-radius: 100%;
+      background-blend-mode: normal;
+      filter: blur(30px);
+      top: 72%;
+      left: 59%;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+    }
+  
+    .particle:nth-child(30) {
+      backface-visibility: hidden;
+      position: absolute;
+      width: 230px;
+      height: 230px;
+      animation-duration: 13.167985384805872s;
+      animation-delay: -6.829416115134134s;
+      transform-origin: -24.403102190677316vw -24.866607990533364vh;
+      animation-name: move;
+      background: linear-gradient(rgb(101, 29, 61) 0%, rgba(52, 29, 101, 0) 100%), radial-gradient(94.51% 124.88% at 94.32% 94.43%, rgba(255, 65, 116, 0.78) 0%, rgba(255, 128, 143, 0.78) 46.52%, rgba(255, 65, 65, 0) 100%), linear-gradient(41deg, rgb(255, 252, 230) 4.33%, rgba(255, 252, 230, 0) 73.7%);
+      border-radius: 100%;
+      background-blend-mode: normal;
+      filter: blur(30px);
+      top: 22%;
+      left: 48%;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+    }
+  
+    .particle:nth-child(31) {
+      backface-visibility: hidden;
+      position: absolute;
+      width: 230px;
+      height: 230px;
+      animation-duration: 14.160895104903041s;
+      animation-delay: -3.201721780501041s;
+      transform-origin: 9.075595761058018vw -24.050679149593602vh;
+      animation-name: move;
+      background: linear-gradient(rgb(101, 29, 61) 0%, rgba(52, 29, 101, 0) 100%), radial-gradient(94.51% 124.88% at 94.32% 94.43%, rgba(255, 65, 116, 0.78) 0%, rgba(255, 128, 143, 0.78) 46.52%, rgba(255, 65, 65, 0) 100%), linear-gradient(41deg, rgb(255, 252, 230) 4.33%, rgba(255, 252, 230, 0) 73.7%);
+      border-radius: 100%;
+      background-blend-mode: normal;
+      filter: blur(30px);
+      top: 30%;
+      left: 46%;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+    }
+  
+    .particle:nth-child(32) {
+      backface-visibility: hidden;
+      position: absolute;
+      width: 230px;
+      height: 230px;
+      animation-duration: 12.133090097911104s;
+      animation-delay: -14.210073189918353s;
+      transform-origin: 6.043875246864371vw -7.020472351449435vh;
+      animation-name: move;
+      background: linear-gradient(rgb(101, 29, 61) 0%, rgba(52, 29, 101, 0) 100%), radial-gradient(94.51% 124.88% at 94.32% 94.43%, rgba(255, 65, 116, 0.78) 0%, rgba(255, 128, 143, 0.78) 46.52%, rgba(255, 65, 65, 0) 100%), linear-gradient(41deg, rgb(255, 252, 230) 4.33%, rgba(255, 252, 230, 0) 73.7%);
+      border-radius: 100%;
+      background-blend-mode: normal;
+      filter: blur(30px);
+      top: 55%;
+      left: 90%;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+    }
+  
+    .particle:nth-child(33) {
+      backface-visibility: hidden;
+      position: absolute;
+      width: 230px;
+      height: 230px;
+      animation-duration: 10.54308205367687s;
+      animation-delay: -3.777656620113435s;
+      transform-origin: -12.097370025635579vw -16.150747630167885vh;
+      animation-name: move;
+      background: linear-gradient(rgb(101, 29, 61) 0%, rgba(52, 29, 101, 0) 100%), radial-gradient(94.51% 124.88% at 94.32% 94.43%, rgba(255, 65, 116, 0.78) 0%, rgba(255, 128, 143, 0.78) 46.52%, rgba(255, 65, 65, 0) 100%), linear-gradient(41deg, rgb(255, 252, 230) 4.33%, rgba(255, 252, 230, 0) 73.7%);
+      border-radius: 100%;
+      background-blend-mode: normal;
+      filter: blur(30px);
+      top: 21%;
+      left: 30%;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+    }
+  
+    .particle:nth-child(34) {
+      backface-visibility: hidden;
+      position: absolute;
+      width: 230px;
+      height: 230px;
+      animation-duration: 12.952362849169404s;
+      animation-delay: -1.8558682809135143s;
+      transform-origin: -21.689286258474596vw -10.38440304001199vh;
+      animation-name: move;
+      background: linear-gradient(rgb(101, 29, 61) 0%, rgba(52, 29, 101, 0) 100%), radial-gradient(94.51% 124.88% at 94.32% 94.43%, rgba(255, 65, 116, 0.78) 0%, rgba(255, 128, 143, 0.78) 46.52%, rgba(255, 65, 65, 0) 100%), linear-gradient(41deg, rgb(255, 252, 230) 4.33%, rgba(255, 252, 230, 0) 73.7%);
+      border-radius: 100%;
+      background-blend-mode: normal;
+      filter: blur(30px);
+      top: 26%;
+      left: 29%;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+    }
+  
+    .particle:nth-child(35) {
+      backface-visibility: hidden;
+      position: absolute;
+      width: 230px;
+      height: 230px;
+      animation-duration: 11.235659848269915s;
+      animation-delay: -1.3851095235511424s;
+      transform-origin: 18.791304734042768vw 7.85678251849621vh;
+      animation-name: move;
+      background: linear-gradient(rgb(101, 29, 61) 0%, rgba(52, 29, 101, 0) 100%), radial-gradient(94.51% 124.88% at 94.32% 94.43%, rgba(255, 65, 116, 0.78) 0%, rgba(255, 128, 143, 0.78) 46.52%, rgba(255, 65, 65, 0) 100%), linear-gradient(41deg, rgb(255, 252, 230) 4.33%, rgba(255, 252, 230, 0) 73.7%);
+      border-radius: 100%;
+      background-blend-mode: normal;
+      filter: blur(30px);
+      top: 58%;
+      left: 82%;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+    }
+  
+    .particle:nth-child(36) {
+      backface-visibility: hidden;
+      position: absolute;
+      width: 230px;
+      height: 230px;
+      animation-duration: 10.531079990790563s;
+      animation-delay: -14.086604517917007s;
+      transform-origin: -2.2380195598741253vw 2.7042093042784607vh;
+      animation-name: move;
+      background: linear-gradient(rgb(101, 29, 61) 0%, rgba(52, 29, 101, 0) 100%), radial-gradient(94.51% 124.88% at 94.32% 94.43%, rgba(255, 65, 116, 0.78) 0%, rgba(255, 128, 143, 0.78) 46.52%, rgba(255, 65, 65, 0) 100%), linear-gradient(41deg, rgb(255, 252, 230) 4.33%, rgba(255, 252, 230, 0) 73.7%);
+      border-radius: 100%;
+      background-blend-mode: normal;
+      filter: blur(30px);
+      top: 11%;
+      left: 56%;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+    }
+  
+    .particle:nth-child(37) {
+      backface-visibility: hidden;
+      position: absolute;
+      width: 230px;
+      height: 230px;
+      animation-duration: 10.35497821093051s;
+      animation-delay: -12.483943713957814s;
+      transform-origin: 14.974427491756657vw 21.52670006208399vh;
+      animation-name: move;
+      background: linear-gradient(rgb(101, 29, 61) 0%, rgba(52, 29, 101, 0) 100%), radial-gradient(94.51% 124.88% at 94.32% 94.43%, rgba(255, 65, 116, 0.78) 0%, rgba(255, 128, 143, 0.78) 46.52%, rgba(255, 65, 65, 0) 100%), linear-gradient(41deg, rgb(255, 252, 230) 4.33%, rgba(255, 252, 230, 0) 73.7%);
+      border-radius: 100%;
+      background-blend-mode: normal;
+      filter: blur(30px);
+      top: 52%;
+      left: 62%;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+    }
+  
+    .particle:nth-child(38) {
+      backface-visibility: hidden;
+      position: absolute;
+      width: 230px;
+      height: 230px;
+      animation-duration: 11.330545167015375s;
+      animation-delay: -9.021733865264867s;
+      transform-origin: -9.744868239433991vw 23.669158399258627vh;
+      animation-name: move;
+      background: linear-gradient(rgb(101, 29, 61) 0%, rgba(52, 29, 101, 0) 100%), radial-gradient(94.51% 124.88% at 94.32% 94.43%, rgba(255, 65, 116, 0.78) 0%, rgba(255, 128, 143, 0.78) 46.52%, rgba(255, 65, 65, 0) 100%), linear-gradient(41deg, rgb(255, 252, 230) 4.33%, rgba(255, 252, 230, 0) 73.7%);
+      border-radius: 100%;
+      background-blend-mode: normal;
+      filter: blur(30px);
+      top: 21%;
+      left: 91%;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+    }
+  
+    .particle:nth-child(39) {
+      backface-visibility: hidden;
+      position: absolute;
+      width: 230px;
+      height: 230px;
+      animation-duration: 12.273134389912993s;
+      animation-delay: -6.999054402831038s;
+      transform-origin: 12.812630891220266vw 5.348939763665783vh;
+      animation-name: move;
+      background: linear-gradient(rgb(101, 29, 61) 0%, rgba(52, 29, 101, 0) 100%), radial-gradient(94.51% 124.88% at 94.32% 94.43%, rgba(255, 65, 116, 0.78) 0%, rgba(255, 128, 143, 0.78) 46.52%, rgba(255, 65, 65, 0) 100%), linear-gradient(41deg, rgb(255, 252, 230) 4.33%, rgba(255, 252, 230, 0) 73.7%);
+      border-radius: 100%;
+      background-blend-mode: normal;
+      filter: blur(30px);
+      top: 22%;
+      left: 46%;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+    }
+  
+    .particle:nth-child(40) {
+      backface-visibility: hidden;
+      position: absolute;
+      width: 230px;
+      height: 230px;
+      animation-duration: 12.96802094386391s;
+      animation-delay: -3.5518685499107745s;
+      transform-origin: 22.368015952659803vw 3.6064109865906246vh;
+      animation-name: move;
+      background: linear-gradient(rgb(101, 29, 61) 0%, rgba(52, 29, 101, 0) 100%), radial-gradient(94.51% 124.88% at 94.32% 94.43%, rgba(255, 65, 116, 0.78) 0%, rgba(255, 128, 143, 0.78) 46.52%, rgba(255, 65, 65, 0) 100%), linear-gradient(41deg, rgb(255, 252, 230) 4.33%, rgba(255, 252, 230, 0) 73.7%);
+      border-radius: 100%;
+      background-blend-mode: normal;
+      filter: blur(30px);
+      top: 61%;
+      left: 67%;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+    }
+  
+    .particle:nth-child(41) {
+      backface-visibility: hidden;
+      position: absolute;
+      width: 230px;
+      height: 230px;
+      animation-duration: 11.235368877148325s;
+      animation-delay: -0.4802595361698659s;
+      transform-origin: -18.39861816852394vw 22.56107242992099vh;
+      animation-name: move;
+      background: linear-gradient(rgb(101, 29, 61) 0%, rgba(52, 29, 101, 0) 100%), radial-gradient(94.51% 124.88% at 94.32% 94.43%, rgba(255, 65, 116, 0.78) 0%, rgba(255, 128, 143, 0.78) 46.52%, rgba(255, 65, 65, 0) 100%), linear-gradient(41deg, rgb(255, 252, 230) 4.33%, rgba(255, 252, 230, 0) 73.7%);
+      border-radius: 100%;
+      background-blend-mode: normal;
+      filter: blur(30px);
+      top: 28%;
+      left: 86%;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+    }
+  
+    .particle:nth-child(42) {
+      backface-visibility: hidden;
+      position: absolute;
+      width: 230px;
+      height: 230px;
+      animation-duration: 13.046061428180625s;
+      animation-delay: -10.592034356805708s;
+      transform-origin: 18.368416680808387vw -5.428886064793915vh;
+      animation-name: move;
+      background: linear-gradient(rgb(101, 29, 61) 0%, rgba(52, 29, 101, 0) 100%), radial-gradient(94.51% 124.88% at 94.32% 94.43%, rgba(255, 65, 116, 0.78) 0%, rgba(255, 128, 143, 0.78) 46.52%, rgba(255, 65, 65, 0) 100%), linear-gradient(41deg, rgb(255, 252, 230) 4.33%, rgba(255, 252, 230, 0) 73.7%);
+      border-radius: 100%;
+      background-blend-mode: normal;
+      filter: blur(30px);
+      top: 60%;
+      left: 6%;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+    }
+  
+    .particle:nth-child(43) {
+      backface-visibility: hidden;
+      position: absolute;
+      width: 230px;
+      height: 230px;
+      animation-duration: 10.561439152485015s;
+      animation-delay: -6.394719566905892s;
+      transform-origin: -16.287396172276125vw 11.403679751138661vh;
+      animation-name: move;
+      background: linear-gradient(rgb(101, 29, 61) 0%, rgba(52, 29, 101, 0) 100%), radial-gradient(94.51% 124.88% at 94.32% 94.43%, rgba(255, 65, 116, 0.78) 0%, rgba(255, 128, 143, 0.78) 46.52%, rgba(255, 65, 65, 0) 100%), linear-gradient(41deg, rgb(255, 252, 230) 4.33%, rgba(255, 252, 230, 0) 73.7%);
+      border-radius: 100%;
+      background-blend-mode: normal;
+      filter: blur(30px);
+      top: 40%;
+      left: 27%;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+    }
+  
+    .particle:nth-child(44) {
+      backface-visibility: hidden;
+      position: absolute;
+      width: 230px;
+      height: 230px;
+      animation-duration: 12.893544259370826s;
+      animation-delay: -1.728958739196266s;
+      transform-origin: 12.293679810543622vw -18.25945670836vh;
+      animation-name: move;
+      background: linear-gradient(rgb(101, 29, 61) 0%, rgba(52, 29, 101, 0) 100%), radial-gradient(94.51% 124.88% at 94.32% 94.43%, rgba(255, 65, 116, 0.78) 0%, rgba(255, 128, 143, 0.78) 46.52%, rgba(255, 65, 65, 0) 100%), linear-gradient(41deg, rgb(255, 252, 230) 4.33%, rgba(255, 252, 230, 0) 73.7%);
+      border-radius: 100%;
+      background-blend-mode: normal;
+      filter: blur(30px);
+      top: 35%;
+      left: 10%;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+    }
+  
+    .particle:nth-child(45) {
+      backface-visibility: hidden;
+      position: absolute;
+      width: 230px;
+      height: 230px;
+      animation-duration: 11.135163589416313s;
+      animation-delay: -8.354785468676031s;
+      transform-origin: -12.918016097313922vw 12.431598010564201vh;
+      animation-name: move;
+      background: linear-gradient(rgb(101, 29, 61) 0%, rgba(52, 29, 101, 0) 100%), radial-gradient(94.51% 124.88% at 94.32% 94.43%, rgba(255, 65, 116, 0.78) 0%, rgba(255, 128, 143, 0.78) 46.52%, rgba(255, 65, 65, 0) 100%), linear-gradient(41deg, rgb(255, 252, 230) 4.33%, rgba(255, 252, 230, 0) 73.7%);
+      border-radius: 100%;
+      background-blend-mode: normal;
+      filter: blur(30px);
+      top: 68%;
+      left: 43%;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+    }
+  
+    .particle:nth-child(46) {
+      backface-visibility: hidden;
+      position: absolute;
+      width: 230px;
+      height: 230px;
+      animation-duration: 12.719731505109554s;
+      animation-delay: -3.2097133842253553s;
+      transform-origin: -12.523427549743726vw 4.8750911333503275vh;
+      animation-name: move;
+      background: linear-gradient(rgb(101, 29, 61) 0%, rgba(52, 29, 101, 0) 100%), radial-gradient(94.51% 124.88% at 94.32% 94.43%, rgba(255, 65, 116, 0.78) 0%, rgba(255, 128, 143, 0.78) 46.52%, rgba(255, 65, 65, 0) 100%), linear-gradient(41deg, rgb(255, 252, 230) 4.33%, rgba(255, 252, 230, 0) 73.7%);
+      border-radius: 100%;
+      background-blend-mode: normal;
+      filter: blur(30px);
+      top: 90%;
+      left: 84%;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+    }
+  
+    .particle:nth-child(47) {
+      backface-visibility: hidden;
+      position: absolute;
+      width: 230px;
+      height: 230px;
+      animation-duration: 12.800144367787606s;
+      animation-delay: -6.260583826914426s;
+      transform-origin: 8.385213078166963vw 15.528327592565738vh;
+      animation-name: move;
+      background: linear-gradient(rgb(101, 29, 61) 0%, rgba(52, 29, 101, 0) 100%), radial-gradient(94.51% 124.88% at 94.32% 94.43%, rgba(255, 65, 116, 0.78) 0%, rgba(255, 128, 143, 0.78) 46.52%, rgba(255, 65, 65, 0) 100%), linear-gradient(41deg, rgb(255, 252, 230) 4.33%, rgba(255, 252, 230, 0) 73.7%);
+      border-radius: 100%;
+      background-blend-mode: normal;
+      filter: blur(30px);
+      top: 73%;
+      left: 53%;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+    }
+  
+    .particle:nth-child(48) {
+      backface-visibility: hidden;
+      position: absolute;
+      width: 230px;
+      height: 230px;
+      animation-duration: 12.818359517202989s;
+      animation-delay: -12.555579196046587s;
+      transform-origin: -11.453503291756595vw -20.404598010235365vh;
+      animation-name: move;
+      background: linear-gradient(rgb(101, 29, 61) 0%, rgba(52, 29, 101, 0) 100%), radial-gradient(94.51% 124.88% at 94.32% 94.43%, rgba(255, 65, 116, 0.78) 0%, rgba(255, 128, 143, 0.78) 46.52%, rgba(255, 65, 65, 0) 100%), linear-gradient(41deg, rgb(255, 252, 230) 4.33%, rgba(255, 252, 230, 0) 73.7%);
+      border-radius: 100%;
+      background-blend-mode: normal;
+      filter: blur(30px);
+      top: 0%;
+      left: 72%;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+    }
+  
+    .particle:nth-child(49) {
+      backface-visibility: hidden;
+      position: absolute;
+      width: 230px;
+      height: 230px;
+      animation-duration: 12.684745951394833s;
+      animation-delay: -8.871490000631521s;
+      transform-origin: 8.092574576104752vw 15.34932219815851vh;
+      animation-name: move;
+      background: linear-gradient(rgb(101, 29, 61) 0%, rgba(52, 29, 101, 0) 100%), radial-gradient(94.51% 124.88% at 94.32% 94.43%, rgba(255, 65, 116, 0.78) 0%, rgba(255, 128, 143, 0.78) 46.52%, rgba(255, 65, 65, 0) 100%), linear-gradient(41deg, rgb(255, 252, 230) 4.33%, rgba(255, 252, 230, 0) 73.7%);
+      border-radius: 100%;
+      background-blend-mode: normal;
+      filter: blur(30px);
+      top: 97%;
+      left: 75%;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+    }
+  
+    .particle:nth-child(50) {
+      backface-visibility: hidden;
+      position: absolute;
+      width: 230px;
+      height: 230px;
+      animation-duration: 10.937300377490484s;
+      animation-delay: -10.415400929395156s;
+      transform-origin: -21.21552495838347vw 8.321553660299543vh;
+      animation-name: move;
+      background: linear-gradient(rgb(101, 29, 61) 0%, rgba(52, 29, 101, 0) 100%), radial-gradient(94.51% 124.88% at 94.32% 94.43%, rgba(255, 65, 116, 0.78) 0%, rgba(255, 128, 143, 0.78) 46.52%, rgba(255, 65, 65, 0) 100%), linear-gradient(41deg, rgb(255, 252, 230) 4.33%, rgba(255, 252, 230, 0) 73.7%);
+      border-radius: 100%;
+      background-blend-mode: normal;
+      filter: blur(30px);
+      top: 40%;
+      left: 97%;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+    }
+  
+    .particle:nth-child(51) {
+      backface-visibility: hidden;
+      position: absolute;
+      width: 230px;
+      height: 230px;
+      animation-duration: 12.251490308040102s;
+      animation-delay: -3.087747830096638s;
+      transform-origin: 9.739517936559395vw -21.60479081674214vh;
+      animation-name: move;
+      background: linear-gradient(rgb(101, 29, 61) 0%, rgba(52, 29, 101, 0) 100%), radial-gradient(94.51% 124.88% at 94.32% 94.43%, rgba(255, 65, 116, 0.78) 0%, rgba(255, 128, 143, 0.78) 46.52%, rgba(255, 65, 65, 0) 100%), linear-gradient(41deg, rgb(255, 252, 230) 4.33%, rgba(255, 252, 230, 0) 73.7%);
+      border-radius: 100%;
+      background-blend-mode: normal;
+      filter: blur(30px);
+      top: 41%;
+      left: 7%;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+    }
+  
+    .particle:nth-child(52) {
+      backface-visibility: hidden;
+      position: absolute;
+      width: 230px;
+      height: 230px;
+      animation-duration: 13.607539401610676s;
+      animation-delay: -12.408332523103933s;
+      transform-origin: 11.8314137656822vw -9.565769873485209vh;
+      animation-name: move;
+      background: linear-gradient(rgb(101, 29, 61) 0%, rgba(52, 29, 101, 0) 100%), radial-gradient(94.51% 124.88% at 94.32% 94.43%, rgba(255, 65, 116, 0.78) 0%, rgba(255, 128, 143, 0.78) 46.52%, rgba(255, 65, 65, 0) 100%), linear-gradient(41deg, rgb(255, 252, 230) 4.33%, rgba(255, 252, 230, 0) 73.7%);
+      border-radius: 100%;
+      background-blend-mode: normal;
+      filter: blur(30px);
+      top: 72%;
+      left: 95%;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+    }
+  
+    .particle:nth-child(53) {
+      backface-visibility: hidden;
+      position: absolute;
+      width: 230px;
+      height: 230px;
+      animation-duration: 13.400564131277298s;
+      animation-delay: -1.3939195090039147s;
+      transform-origin: 10.123819346050887vw -5.37386088660017vh;
+      animation-name: move;
+      background: linear-gradient(rgb(101, 29, 61) 0%, rgba(52, 29, 101, 0) 100%), radial-gradient(94.51% 124.88% at 94.32% 94.43%, rgba(255, 65, 116, 0.78) 0%, rgba(255, 128, 143, 0.78) 46.52%, rgba(255, 65, 65, 0) 100%), linear-gradient(41deg, rgb(255, 252, 230) 4.33%, rgba(255, 252, 230, 0) 73.7%);
+      border-radius: 100%;
+      background-blend-mode: normal;
+      filter: blur(30px);
+      top: 43%;
+      left: 38%;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+    }
+  
+    .particle:nth-child(54) {
+      backface-visibility: hidden;
+      position: absolute;
+      width: 230px;
+      height: 230px;
+      animation-duration: 10.180822027968608s;
+      animation-delay: -1.6999455690654162s;
+      transform-origin: 3.665849718329561vw -18.9788844184978vh;
+      animation-name: move;
+      background: linear-gradient(rgb(101, 29, 61) 0%, rgba(52, 29, 101, 0) 100%), radial-gradient(94.51% 124.88% at 94.32% 94.43%, rgba(255, 65, 116, 0.78) 0%, rgba(255, 128, 143, 0.78) 46.52%, rgba(255, 65, 65, 0) 100%), linear-gradient(41deg, rgb(255, 252, 230) 4.33%, rgba(255, 252, 230, 0) 73.7%);
+      border-radius: 100%;
+      background-blend-mode: normal;
+      filter: blur(30px);
+      top: 42%;
+      left: 79%;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+    }
+  
+    .particle:nth-child(55) {
+      backface-visibility: hidden;
+      position: absolute;
+      width: 230px;
+      height: 230px;
+      animation-duration: 12.250400683134771s;
+      animation-delay: -8.192151539682758s;
+      transform-origin: 22.573608427381778vw 10.831432398790476vh;
+      animation-name: move;
+      background: linear-gradient(rgb(101, 29, 61) 0%, rgba(52, 29, 101, 0) 100%), radial-gradient(94.51% 124.88% at 94.32% 94.43%, rgba(255, 65, 116, 0.78) 0%, rgba(255, 128, 143, 0.78) 46.52%, rgba(255, 65, 65, 0) 100%), linear-gradient(41deg, rgb(255, 252, 230) 4.33%, rgba(255, 252, 230, 0) 73.7%);
+      border-radius: 100%;
+      background-blend-mode: normal;
+      filter: blur(30px);
+      top: 83%;
+      left: 92%;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+    }
+  
+    .particle:nth-child(56) {
+      backface-visibility: hidden;
+      position: absolute;
+      width: 230px;
+      height: 230px;
+      animation-duration: 14.094969585994884s;
+      animation-delay: -8.416349367479352s;
+      transform-origin: 6.05524631779064vw -11.46313944080497vh;
+      animation-name: move;
+      background: linear-gradient(rgb(101, 29, 61) 0%, rgba(52, 29, 101, 0) 100%), radial-gradient(94.51% 124.88% at 94.32% 94.43%, rgba(255, 65, 116, 0.78) 0%, rgba(255, 128, 143, 0.78) 46.52%, rgba(255, 65, 65, 0) 100%), linear-gradient(41deg, rgb(255, 252, 230) 4.33%, rgba(255, 252, 230, 0) 73.7%);
+      border-radius: 100%;
+      background-blend-mode: normal;
+      filter: blur(30px);
+      top: 62%;
+      left: 35%;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+    }
+  
+    .particle:nth-child(57) {
+      backface-visibility: hidden;
+      position: absolute;
+      width: 230px;
+      height: 230px;
+      animation-duration: 11.46794777450606s;
+      animation-delay: -3.176878362301896s;
+      transform-origin: -21.779481009947176vw 9.415039943873396vh;
+      animation-name: move;
+      background: linear-gradient(rgb(101, 29, 61) 0%, rgba(52, 29, 101, 0) 100%), radial-gradient(94.51% 124.88% at 94.32% 94.43%, rgba(255, 65, 116, 0.78) 0%, rgba(255, 128, 143, 0.78) 46.52%, rgba(255, 65, 65, 0) 100%), linear-gradient(41deg, rgb(255, 252, 230) 4.33%, rgba(255, 252, 230, 0) 73.7%);
+      border-radius: 100%;
+      background-blend-mode: normal;
+      filter: blur(30px);
+      top: 80%;
+      left: 18%;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+    }
+  
+    .particle:nth-child(58) {
+      backface-visibility: hidden;
+      position: absolute;
+      width: 230px;
+      height: 230px;
+      animation-duration: 11.0534869654326s;
+      animation-delay: -13.033260889857171s;
+      transform-origin: 9.795596304349417vw -3.397005730660684vh;
+      animation-name: move;
+      background: linear-gradient(rgb(101, 29, 61) 0%, rgba(52, 29, 101, 0) 100%), radial-gradient(94.51% 124.88% at 94.32% 94.43%, rgba(255, 65, 116, 0.78) 0%, rgba(255, 128, 143, 0.78) 46.52%, rgba(255, 65, 65, 0) 100%), linear-gradient(41deg, rgb(255, 252, 230) 4.33%, rgba(255, 252, 230, 0) 73.7%);
+      border-radius: 100%;
+      background-blend-mode: normal;
+      filter: blur(30px);
+      top: 25%;
+      left: 98%;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+    }
+  
+    .particle:nth-child(59) {
+      backface-visibility: hidden;
+      position: absolute;
+      width: 230px;
+      height: 230px;
+      animation-duration: 10.265121282625206s;
+      animation-delay: -0.32506576757198924s;
+      transform-origin: -11.4739936458086vw -5.60908234867652vh;
+      animation-name: move;
+      background: linear-gradient(rgb(101, 29, 61) 0%, rgba(52, 29, 101, 0) 100%), radial-gradient(94.51% 124.88% at 94.32% 94.43%, rgba(255, 65, 116, 0.78) 0%, rgba(255, 128, 143, 0.78) 46.52%, rgba(255, 65, 65, 0) 100%), linear-gradient(41deg, rgb(255, 252, 230) 4.33%, rgba(255, 252, 230, 0) 73.7%);
+      border-radius: 100%;
+      background-blend-mode: normal;
+      filter: blur(30px);
+      top: 27%;
+      left: 48%;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+    }
+  
+    .particle:nth-child(60) {
+      backface-visibility: hidden;
+      position: absolute;
+      width: 230px;
+      height: 230px;
+      animation-duration: 10.121318247100037s;
+      animation-delay: -8.941501183000344s;
+      transform-origin: 13.55638121649124vw -14.696720773461392vh;
+      animation-name: move;
+      background: linear-gradient(rgb(101, 29, 61) 0%, rgba(52, 29, 101, 0) 100%), radial-gradient(94.51% 124.88% at 94.32% 94.43%, rgba(255, 65, 116, 0.78) 0%, rgba(255, 128, 143, 0.78) 46.52%, rgba(255, 65, 65, 0) 100%), linear-gradient(41deg, rgb(255, 252, 230) 4.33%, rgba(255, 252, 230, 0) 73.7%);
+      border-radius: 100%;
+      background-blend-mode: normal;
+      filter: blur(30px);
+      top: 84%;
+      left: 36%;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+    }
+  
+    .particle:nth-child(61) {
+      backface-visibility: hidden;
+      position: absolute;
+      width: 230px;
+      height: 230px;
+      animation-duration: 13.785315330801312s;
+      animation-delay: -1.1588064949742194s;
+      transform-origin: 13.95465185585487vw 18.021339386248513vh;
+      animation-name: move;
+      background: linear-gradient(rgb(101, 29, 61) 0%, rgba(52, 29, 101, 0) 100%), radial-gradient(94.51% 124.88% at 94.32% 94.43%, rgba(255, 65, 116, 0.78) 0%, rgba(255, 128, 143, 0.78) 46.52%, rgba(255, 65, 65, 0) 100%), linear-gradient(41deg, rgb(255, 252, 230) 4.33%, rgba(255, 252, 230, 0) 73.7%);
+      border-radius: 100%;
+      background-blend-mode: normal;
+      filter: blur(30px);
+      top: 13%;
+      left: 38%;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+    }
+  
+    .particle:nth-child(62) {
+      backface-visibility: hidden;
+      position: absolute;
+      width: 230px;
+      height: 230px;
+      animation-duration: 10.258829770934222s;
+      animation-delay: -5.6458122620249345s;
+      transform-origin: -6.481360183300765vw 23.683999660093vh;
+      animation-name: move;
+      background: linear-gradient(rgb(101, 29, 61) 0%, rgba(52, 29, 101, 0) 100%), radial-gradient(94.51% 124.88% at 94.32% 94.43%, rgba(255, 65, 116, 0.78) 0%, rgba(255, 128, 143, 0.78) 46.52%, rgba(255, 65, 65, 0) 100%), linear-gradient(41deg, rgb(255, 252, 230) 4.33%, rgba(255, 252, 230, 0) 73.7%);
+      border-radius: 100%;
+      background-blend-mode: normal;
+      filter: blur(30px);
+      top: 28%;
+      left: 6%;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+    }
+  
+    .particle:nth-child(63) {
+      backface-visibility: hidden;
+      position: absolute;
+      width: 230px;
+      height: 230px;
+      animation-duration: 12.74243163337011s;
+      animation-delay: -9.204810474767188s;
+      transform-origin: -18.304334878316087vw -9.694898476605085vh;
+      animation-name: move;
+      background: linear-gradient(rgb(101, 29, 61) 0%, rgba(52, 29, 101, 0) 100%), radial-gradient(94.51% 124.88% at 94.32% 94.43%, rgba(255, 65, 116, 0.78) 0%, rgba(255, 128, 143, 0.78) 46.52%, rgba(255, 65, 65, 0) 100%), linear-gradient(41deg, rgb(255, 252, 230) 4.33%, rgba(255, 252, 230, 0) 73.7%);
+      border-radius: 100%;
+      background-blend-mode: normal;
+      filter: blur(30px);
+      top: 55%;
+      left: 42%;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+    }
+  
+    .particle:nth-child(64) {
+      backface-visibility: hidden;
+      position: absolute;
+      width: 230px;
+      height: 230px;
+      animation-duration: 12.137302478899672s;
+      animation-delay: -6.419167074903368s;
+      transform-origin: -1.0419757504183238vw -7.347838271514039vh;
+      animation-name: move;
+      background: linear-gradient(rgb(101, 29, 61) 0%, rgba(52, 29, 101, 0) 100%), radial-gradient(94.51% 124.88% at 94.32% 94.43%, rgba(255, 65, 116, 0.78) 0%, rgba(255, 128, 143, 0.78) 46.52%, rgba(255, 65, 65, 0) 100%), linear-gradient(41deg, rgb(255, 252, 230) 4.33%, rgba(255, 252, 230, 0) 73.7%);
+      border-radius: 100%;
+      background-blend-mode: normal;
+      filter: blur(30px);
+      top: 8%;
+      left: 68%;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+    }
+  
+    .particle:nth-child(65) {
+      backface-visibility: hidden;
+      position: absolute;
+      width: 230px;
+      height: 230px;
+      animation-duration: 14.852952517408605s;
+      animation-delay: -8.725912145551682s;
+      transform-origin: 4.52935089452161vw -21.433794088176374vh;
+      animation-name: move;
+      background: linear-gradient(rgb(101, 29, 61) 0%, rgba(52, 29, 101, 0) 100%), radial-gradient(94.51% 124.88% at 94.32% 94.43%, rgba(255, 65, 116, 0.78) 0%, rgba(255, 128, 143, 0.78) 46.52%, rgba(255, 65, 65, 0) 100%), linear-gradient(41deg, rgb(255, 252, 230) 4.33%, rgba(255, 252, 230, 0) 73.7%);
+      border-radius: 100%;
+      background-blend-mode: normal;
+      filter: blur(30px);
+      top: 26%;
+      left: 45%;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+    }
+  
+    .particle:nth-child(66) {
+      backface-visibility: hidden;
+      position: absolute;
+      width: 230px;
+      height: 230px;
+      animation-duration: 11.039420974630257s;
+      animation-delay: -0.7075637003457669s;
+      transform-origin: 3.9317230932274114vw -8.849949890056617vh;
+      animation-name: move;
+      background: linear-gradient(rgb(101, 29, 61) 0%, rgba(52, 29, 101, 0) 100%), radial-gradient(94.51% 124.88% at 94.32% 94.43%, rgba(255, 65, 116, 0.78) 0%, rgba(255, 128, 143, 0.78) 46.52%, rgba(255, 65, 65, 0) 100%), linear-gradient(41deg, rgb(255, 252, 230) 4.33%, rgba(255, 252, 230, 0) 73.7%);
+      border-radius: 100%;
+      background-blend-mode: normal;
+      filter: blur(30px);
+      top: 90%;
+      left: 93%;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+    }
+  
+    .particle:nth-child(67) {
+      backface-visibility: hidden;
+      position: absolute;
+      width: 230px;
+      height: 230px;
+      animation-duration: 11.313443396776265s;
+      animation-delay: -0.43240553928378667s;
+      transform-origin: 6.740694652915458vw 21.040685808860673vh;
+      animation-name: move;
+      background: linear-gradient(rgb(101, 29, 61) 0%, rgba(52, 29, 101, 0) 100%), radial-gradient(94.51% 124.88% at 94.32% 94.43%, rgba(255, 65, 116, 0.78) 0%, rgba(255, 128, 143, 0.78) 46.52%, rgba(255, 65, 65, 0) 100%), linear-gradient(41deg, rgb(255, 252, 230) 4.33%, rgba(255, 252, 230, 0) 73.7%);
+      border-radius: 100%;
+      background-blend-mode: normal;
+      filter: blur(30px);
+      top: 11%;
+      left: 29%;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+    }
+  
+    .particle:nth-child(68) {
+      backface-visibility: hidden;
+      position: absolute;
+      width: 230px;
+      height: 230px;
+      animation-duration: 10.533975546519496s;
+      animation-delay: -13.277636823751488s;
+      transform-origin: -14.957542469468631vw 13.1635670220533vh;
+      animation-name: move;
+      background: linear-gradient(rgb(101, 29, 61) 0%, rgba(52, 29, 101, 0) 100%), radial-gradient(94.51% 124.88% at 94.32% 94.43%, rgba(255, 65, 116, 0.78) 0%, rgba(255, 128, 143, 0.78) 46.52%, rgba(255, 65, 65, 0) 100%), linear-gradient(41deg, rgb(255, 252, 230) 4.33%, rgba(255, 252, 230, 0) 73.7%);
+      border-radius: 100%;
+      background-blend-mode: normal;
+      filter: blur(30px);
+      top: 59%;
+      left: 87%;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+    }
+  
+    .particle:nth-child(69) {
+      backface-visibility: hidden;
+      position: absolute;
+      width: 230px;
+      height: 230px;
+      animation-duration: 12.68680620750882s;
+      animation-delay: -2.328324517463202s;
+      transform-origin: -9.119731202113146vw -3.9202862157543876vh;
+      animation-name: move;
+      background: linear-gradient(rgb(101, 29, 61) 0%, rgba(52, 29, 101, 0) 100%), radial-gradient(94.51% 124.88% at 94.32% 94.43%, rgba(255, 65, 116, 0.78) 0%, rgba(255, 128, 143, 0.78) 46.52%, rgba(255, 65, 65, 0) 100%), linear-gradient(41deg, rgb(255, 252, 230) 4.33%, rgba(255, 252, 230, 0) 73.7%);
+      border-radius: 100%;
+      background-blend-mode: normal;
+      filter: blur(30px);
+      top: 76%;
+      left: 28%;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+    }
+  
+    .particle:nth-child(70) {
+      backface-visibility: hidden;
+      position: absolute;
+      width: 230px;
+      height: 230px;
+      animation-duration: 10.588404879068973s;
+      animation-delay: -12.34768960537012s;
+      transform-origin: 22.827825597632433vw 7.412017389730664vh;
+      animation-name: move;
+      background: linear-gradient(rgb(101, 29, 61) 0%, rgba(52, 29, 101, 0) 100%), radial-gradient(94.51% 124.88% at 94.32% 94.43%, rgba(255, 65, 116, 0.78) 0%, rgba(255, 128, 143, 0.78) 46.52%, rgba(255, 65, 65, 0) 100%), linear-gradient(41deg, rgb(255, 252, 230) 4.33%, rgba(255, 252, 230, 0) 73.7%);
+      border-radius: 100%;
+      background-blend-mode: normal;
+      filter: blur(30px);
+      top: 24%;
+      left: 76%;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+    }
+  
+    .particle:nth-child(71) {
+      backface-visibility: hidden;
+      position: absolute;
+      width: 230px;
+      height: 230px;
+      animation-duration: 12.499070474433553s;
+      animation-delay: -6.508435298043946s;
+      transform-origin: -24.07931042045388vw 17.10386118424165vh;
+      animation-name: move;
+      background: linear-gradient(rgb(101, 29, 61) 0%, rgba(52, 29, 101, 0) 100%), radial-gradient(94.51% 124.88% at 94.32% 94.43%, rgba(255, 65, 116, 0.78) 0%, rgba(255, 128, 143, 0.78) 46.52%, rgba(255, 65, 65, 0) 100%), linear-gradient(41deg, rgb(255, 252, 230) 4.33%, rgba(255, 252, 230, 0) 73.7%);
+      border-radius: 100%;
+      background-blend-mode: normal;
+      filter: blur(30px);
+      top: 34%;
+      left: 72%;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+    }
+  
+    .particle:nth-child(72) {
+      backface-visibility: hidden;
+      position: absolute;
+      width: 230px;
+      height: 230px;
+      animation-duration: 10.595035516468116s;
+      animation-delay: -7.875091069228877s;
+      transform-origin: -24.093737530129754vw -10.507811397256173vh;
+      animation-name: move;
+      background: linear-gradient(rgb(101, 29, 61) 0%, rgba(52, 29, 101, 0) 100%), radial-gradient(94.51% 124.88% at 94.32% 94.43%, rgba(255, 65, 116, 0.78) 0%, rgba(255, 128, 143, 0.78) 46.52%, rgba(255, 65, 65, 0) 100%), linear-gradient(41deg, rgb(255, 252, 230) 4.33%, rgba(255, 252, 230, 0) 73.7%);
+      border-radius: 100%;
+      background-blend-mode: normal;
+      filter: blur(30px);
+      top: 37%;
+      left: 69%;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+    }
+  
+    .particle:nth-child(73) {
+      backface-visibility: hidden;
+      position: absolute;
+      width: 230px;
+      height: 230px;
+      animation-duration: 10.268444345322024s;
+      animation-delay: -13.708956846188542s;
+      transform-origin: -12.413438311266766vw -0.6001720805959856vh;
+      animation-name: move;
+      background: linear-gradient(rgb(101, 29, 61) 0%, rgba(52, 29, 101, 0) 100%), radial-gradient(94.51% 124.88% at 94.32% 94.43%, rgba(255, 65, 116, 0.78) 0%, rgba(255, 128, 143, 0.78) 46.52%, rgba(255, 65, 65, 0) 100%), linear-gradient(41deg, rgb(255, 252, 230) 4.33%, rgba(255, 252, 230, 0) 73.7%);
+      border-radius: 100%;
+      background-blend-mode: normal;
+      filter: blur(30px);
+      top: 23%;
+      left: 91%;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+    }
+  
+    .particle:nth-child(74) {
+      backface-visibility: hidden;
+      position: absolute;
+      width: 230px;
+      height: 230px;
+      animation-duration: 12.056516852273003s;
+      animation-delay: -10.924201406206029s;
+      transform-origin: -24.317867675039974vw 5.625409767122523vh;
+      animation-name: move;
+      background: linear-gradient(rgb(101, 29, 61) 0%, rgba(52, 29, 101, 0) 100%), radial-gradient(94.51% 124.88% at 94.32% 94.43%, rgba(255, 65, 116, 0.78) 0%, rgba(255, 128, 143, 0.78) 46.52%, rgba(255, 65, 65, 0) 100%), linear-gradient(41deg, rgb(255, 252, 230) 4.33%, rgba(255, 252, 230, 0) 73.7%);
+      border-radius: 100%;
+      background-blend-mode: normal;
+      filter: blur(30px);
+      top: 27%;
+      left: 69%;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+    }
+  
+    .particle:nth-child(75) {
+      backface-visibility: hidden;
+      position: absolute;
+      width: 230px;
+      height: 230px;
+      animation-duration: 11.106037976045195s;
+      animation-delay: -12.83623931250759s;
+      transform-origin: -12.523204918894704vw -7.044555267471942vh;
+      animation-name: move;
+      background: linear-gradient(rgb(101, 29, 61) 0%, rgba(52, 29, 101, 0) 100%), radial-gradient(94.51% 124.88% at 94.32% 94.43%, rgba(255, 65, 116, 0.78) 0%, rgba(255, 128, 143, 0.78) 46.52%, rgba(255, 65, 65, 0) 100%), linear-gradient(41deg, rgb(255, 252, 230) 4.33%, rgba(255, 252, 230, 0) 73.7%);
+      border-radius: 100%;
+      background-blend-mode: normal;
+      filter: blur(30px);
+      top: 71%;
+      left: 15%;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+    }
+  
